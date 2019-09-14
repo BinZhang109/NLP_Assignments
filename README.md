@@ -1,3 +1,3 @@
 # NLP_Assignments
 
-Assignment for NLP Class
+Assignments for NLP Class
